@@ -1,4 +1,5 @@
 ### Trybeer
+-readme feito por https://github.com/sagacello
 
 ![grab-landing-page](https://github.com/sagacello/Trybeer/blob/main/DqRnAk.gif)
 
